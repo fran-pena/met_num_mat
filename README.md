@@ -37,3 +37,5 @@
 
 ## Cocalc:
   - Edición de ficheros.f90, terminal, gdb, jupyer con Kernel bash
+
+[Más información](https://github.com/fran-pena/vscode-mingw-w64)
