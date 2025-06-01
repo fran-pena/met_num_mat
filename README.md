@@ -1,5 +1,7 @@
 # Innovación na docencia de Métodos Numéricos no Grao en Matemáticas
 
+[_Excusatio petita_](https://github.com/fran-pena/fortran-remarks)
+
 ## Distribución de contenido
 - Campus Virtual
 - Web propia: [Informática no grao de Matemáticas](http://persoal.citius.usc.es/manuel.fernandez.delgado/informatica)
