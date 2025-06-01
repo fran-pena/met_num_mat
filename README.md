@@ -10,27 +10,28 @@
 ### GitHub
 - Inicialmente, repositorio de git
   - Edición desde la web (.md, .ipynb, .f90, etc.)
-  - Obs: Incluso .mlx en formato .m
+  - Incluso, por ejemplo, 
+    - .mlx en formato .m (desde Matlab 2024b se puede configurar para gaurdar los Live Script en texto)
+    - Jupyter Book
 - Ahora:
   - Alojamiento de contenido: GitHub Pages
     - [Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
     - [Publicación de ramas](https://docs.github.com/es/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-    - Este repositorio: 
+    - [Este repositorio](https://fran-pena.github.io/met_num_mat/)
   - Entorno de desarrollo: Codespaces y Copilot
     - IDE de Codespaces basado en VS Code
     - Construcción de un contenedor con Fortran
-  
-[![Abrir en GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?template_repository=fran-pena/Ejemplo-Fortran-Codespaces)
+    - Codespace -> Repositorio -> Compartición
+      [![Abrir en GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?template_repository=fran-pena/Ejemplo-Fortran-Codespaces)
+    - Visual Studio => Compilación con tareas, depuración, etc.
+    - **Limitaciones:** 60 horas/mes en la versión gratuita
 
-    - 
-final, despues e jupyer notebbok
-book
-ejemplo, udc
+### Google Colab
+- Pensado para IA / Data Analysis
+- Basado en Jupyter Notebooks
+- Ejecución en la nube (limitaciones para versión gratuita) o usando recursos locales (sin límite).
+- [Ejemplos de uso](https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb)
+- Los ficheros de resultados son efímeros, pero pueden guardarse o cargarse de Google Drive o GitHub.
 
-## Execución de Fortran na nube
-- Cocalc:
+## Cocalc:
   - Edición de ficheros.f90, terminal, gdb, jupyer con Kernel bash
-- GitHub Codespaces:
-  - Visual Studio con depuración
-  - Reconstrucción del contenedor
-  - 60 horas mensuales
