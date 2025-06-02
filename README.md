@@ -40,3 +40,5 @@
   - VS Code:
     - Descargar las extensiones cpptools y Modern Fortran en un Linux x64 e instalarlas en vs code de Cocalc mediante el vsix.
 
+
+[Más información](https://github.com/fran-pena/vscode-mingw-w64)
