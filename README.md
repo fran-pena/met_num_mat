@@ -37,3 +37,6 @@
 
 ## Cocalc:
   - Edición de ficheros.f90, terminal, gdb, jupyer con Kernel bash
+  - VS Code:
+    - Descargar las extensiones cpptools y Modern Fortran en un Linux x64 e instalarlas en vs code de Cocalc mediante el vsix.
+
